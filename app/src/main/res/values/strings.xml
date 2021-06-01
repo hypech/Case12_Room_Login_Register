@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">case9login_room</string>
+    <string name="app_name">case12_room_login_register</string>
     <string name="logint">Login</string>
     <string name="etUser_hint">Phone/Email</string>
     <string name="pswHint">Password</string>

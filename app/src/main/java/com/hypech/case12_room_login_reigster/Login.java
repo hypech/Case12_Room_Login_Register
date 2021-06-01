@@ -13,13 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.hypech.case9login_room;
+package com.hypech.case12_room_login_reigster;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.database.Cursor;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
@@ -27,9 +26,9 @@ import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.hypech.case9login_room.room.User;
-import com.hypech.case9login_room.room.UserDao;
-import com.hypech.case9login_room.room.UserDatabase;
+import com.hypech.case12_room_login_reigster.room.User;
+import com.hypech.case12_room_login_reigster.room.UserDao;
+import com.hypech.case12_room_login_reigster.room.UserDatabase;
 
 public class Login extends AppCompatActivity {
 

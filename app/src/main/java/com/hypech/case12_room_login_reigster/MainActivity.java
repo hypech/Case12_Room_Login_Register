@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.hypech.case9login_room;
+package com.hypech.case12_room_login_reigster;
 
 import androidx.appcompat.app.AppCompatActivity;
 

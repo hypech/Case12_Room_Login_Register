@@ -1,4 +1,4 @@
-package com.hypech.case9login_room.room;
+package com.hypech.case12_room_login_reigster.room;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;

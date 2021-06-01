@@ -1,4 +1,4 @@
-package com.hypech.case9login_room;
+package com.hypech.case12_room_login_reigster;
 
 import android.content.Context;
 import android.database.Cursor;

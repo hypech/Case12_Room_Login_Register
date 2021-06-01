@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hypech.case9login_room">
+    package="com.hypech.case12_room_login_reigster">
 
     <application
         android:allowBackup="true"
@@ -9,10 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Case7Core_SQLite">
-        <activity android:name="com.hypech.case9login_room.BusinessLogic"></activity>
-        <activity android:name="com.hypech.case9login_room.Register" />
-        <activity android:name="com.hypech.case9login_room.Login" />
-        <activity android:name="com.hypech.case9login_room.MainActivity">
+        <activity android:name="com.hypech.case12_room_login_reigster.BusinessLogic"></activity>
+        <activity android:name="com.hypech.case12_room_login_reigster.Register" />
+        <activity android:name="com.hypech.case12_room_login_reigster.Login" />
+        <activity android:name="com.hypech.case12_room_login_reigster.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
